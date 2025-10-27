@@ -1,0 +1,6 @@
+{
+    "Model": "GradientBoostingRegressor",
+    "MAE": 5678.482048392612,
+    "RMSE": 6762.402708678536,
+    "MAPE": 6.549846648844496
+}
